@@ -1,4 +1,4 @@
-### Hi there 👋
+### AMCS REST API Documentation and Examples
 
 <!--
 **amcsrestapi/amcsrestapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
